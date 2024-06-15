@@ -1,0 +1,4 @@
+%{
+  "dictionary": {:git, "https://github.com/hkedia/dictionary.git", "a2e4320dc2006a6eea6c9b4a1a936febb50e4238", [tag: "0.1.0"]},
+  "hangman": {:git, "https://github.com/hkedia/hangman_game.git", "2044d6749f3e4e4ce48c7cf86f2fd2abe38a4bcb", [tag: "0.1.0"]},
+}
